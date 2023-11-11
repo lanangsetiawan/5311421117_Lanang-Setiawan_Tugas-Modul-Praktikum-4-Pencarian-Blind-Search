@@ -1,5 +1,6 @@
-Nama : Hamdan Kamal Fahrudin
-NIM   : 5311421084
+Nama  : Lanang Setiawan
+NIM   : 5311421117
+
 # Teknik Heuristic Search
 # A. Tujuan Praktikum
 Memperlihatkan kepada mahasiswa bagaimana menyelesaikan permasalahan pada game 8-puzzle  dengan menggunakan algoritma heuristic search. Mahasiswa diharapkan mampu  mengimplementasikan algoritma heuristic dengan menggunakan Java.
